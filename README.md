@@ -1,4 +1,4 @@
-# SportNewsTest
+# Sport News
 
 Simple sports-news demo app — built mainly for practicing networking, list rendering, and clean architecture basics.
 

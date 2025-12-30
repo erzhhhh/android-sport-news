@@ -9,7 +9,6 @@ Simple sports-news demo app — built mainly for practicing networking, list ren
 * Opens details when you tap an item
 * Shows loading/error states gracefully
 
-Great as a small practice project and portfolio example.
 
 ## Tech stack
 

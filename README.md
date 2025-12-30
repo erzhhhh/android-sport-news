@@ -28,25 +28,3 @@ Great as a small practice project and portfolio example.
 3. Sync Gradle
 4. Run on device/emulator — that’s it 🚀
 
-
-## Project structure (high level)
-
-```
-app/
- ├─ data/        # network & models
- ├─ ui/          # activities / fragments / adapters
- └─ viewmodel/   # presentation logic
-```
-
-## Possible improvements
-
-* Add search & filters
-* Pagination / infinite scroll
-* Dark mode support
-* Unit tests for ViewModels & repository
-* Pull-to-refresh
-
-## Why this project exists
-
-Short, realistic example of how to fetch data from an API and present it cleanly — without unnecessary complexity.
-
